@@ -68,8 +68,6 @@ namespace WhatsappTracking
                 await Task.Delay(3000);
                 driver.FindElement(By.CssSelector("#action-button")).Click();
                 await Task.Delay(2000);
-                IAlert alert = driver.SwitchTo().Alert();
-                alert.Accept();
                 driver.SwitchTo().Alert().Accept();
                 await Task.Delay(2000);
             });
