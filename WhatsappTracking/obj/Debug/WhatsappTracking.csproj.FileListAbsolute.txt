@@ -1,0 +1,15 @@
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\bin\Debug\WhatsappTracking.exe.config
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\bin\Debug\WhatsappTracking.exe
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\bin\Debug\WhatsappTracking.pdb
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\bin\Debug\WebDriver.dll
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.Form1.resources
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.exe
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.pdb
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\bin\Debug\BrowserAutomation.dll
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\bin\Debug\WebDriver.Support.dll
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\bin\Debug\WebDriver.Support.xml
+C:\Users\Ahmet\source\repos\WhatsappTracking\WhatsappTracking\obj\Debug\WhatsappTracking.csproj.CopyComplete
